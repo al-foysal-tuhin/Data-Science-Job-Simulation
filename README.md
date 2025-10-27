@@ -1,7 +1,7 @@
 # Data-Science-Job-Simulation
 
 ## Project: Data Science Job Simulation (Forage)
-** Key Features & Skills Demonstrated
+** Key Features & Skills  **
 
 Web Scraping & Data Acquisition: Developed a Python script using Beautiful Soup/Scrapy to scrape public company data (e.g., industry, founding year, key personnel) from a target website.
 
