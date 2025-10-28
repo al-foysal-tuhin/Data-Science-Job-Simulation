@@ -19,16 +19,17 @@
 
 **1. Web Scraping for Company Insights**
    
-**Goal:** Gather supplementary, real-time data on potential clients to enrich the existing customer database.
+ * **Goal:** Gather supplementary, real-time data on potential clients to enrich the existing customer database.
 
-**Tools Used:** Python, requests, BeautifulSoup (or other scraping library).
+ * **Tools Used:** Python, requests, BeautifulSoup (or other scraping library).
 
-**Output:** A clean CSV file of company profiles ready for merging with the main dataset.
+ * **Output:** A clean CSV file of company profiles ready for merging with the main dataset.
+   
 
 **2. Predicting Customer Buying Behaviour**
    
-**Goal:** Develop a model to predict which customers are most likely to convert after a promotional campaign.
+ * **Goal:** Develop a model to predict which customers are most likely to convert after a promotional campaign.
 
-**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+ * **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
-**Methodology:** Followed a standard Machine Learning pipeline: Data Ingestion $\rightarrow$ EDA $\rightarrow$ Feature Engineering $\rightarrow$ Model Training & Hyperparameter Tuning $\rightarrow$ Final Model Selection.
+ * **Methodology:** Followed a standard Machine Learning pipeline: Data Ingestion $\rightarrow$ EDA $\rightarrow$ Feature Engineering $\rightarrow$ Model Training & Hyperparameter Tuning $\rightarrow$ Final Model Selection.
