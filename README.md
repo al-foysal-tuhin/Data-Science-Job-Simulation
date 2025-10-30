@@ -35,5 +35,6 @@
  * **Methodology:** Followed a standard Machine Learning pipeline: Data Ingestion $\rightarrow$ EDA $\rightarrow$ Feature Engineering $\rightarrow$ Model Training & Hyperparameter Tuning $\rightarrow$ Final Model Selection.
 
 
-📋 Requirements
+## 📋 Requirements
+
 You must create a requirements.txt file in your repository with the following content. These are the main libraries used in your notebook.
